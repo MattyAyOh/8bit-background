@@ -83,14 +83,14 @@ files=(
 
 # Timings for the backgrounds, in order
 timing=(
-  7
+  8
+  9
   10
   12
+  13
+  14
+  15
   16
-  18
-  19
-  21
-  23
 )
 
 # The current hour as an integer
